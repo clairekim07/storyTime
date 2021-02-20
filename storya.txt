@@ -1,3 +1,4 @@
 This story is completed
 I am adding another story to this.
 I am editing on remote to see if it works.
+I am editing on local to see if it can be pushed after pull.
